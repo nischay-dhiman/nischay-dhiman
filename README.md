@@ -1,7 +1,7 @@
 Hi 👋 My name is Nischay Dhiman
 ===============================
 
-I am a Backend Engineer
+I am a Sr. Software Developer specialized in Ruby On Rails.
 -----------------------
 
 I have over 5 years of experience developing scalable backend applications using Ruby on Rails. My main objective is to contribute to the growth of an organization with my professional expertise in Web Applications Development and develop myself further in the process.

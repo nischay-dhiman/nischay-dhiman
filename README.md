@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/nischay-dhiman?logo=github&style=fo
   <a href="https://www.linkedin.com/in/nischay-dhiman" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /
   </a> 
-  <a href="https://www.youtube.com/c/UC-485XHH194sCarM0msIDsQ" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/channel/UC-485XHH194sCarM0msIDsQ" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
   </a>
 </p>

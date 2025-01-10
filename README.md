@@ -4,7 +4,7 @@ Hi 👋 My name is Nischay Dhiman
 I am a Backend Engineer 
 -----------------------
 
-I have over 5 years of experience developing scalable backend applications using Ruby on Rails. My main objective is to contribute to the growth of an organization with my professional expertise in Web Applications Development and develop myself further in the process.
+I have over 8 years of experience developing scalable backend applications using Ruby on Rails. My main objective is to contribute to the growth of an organization with my professional expertise in Web Applications Development and develop myself further in the process.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [nischay.dhiman@gmail.com](mailto:nischay.dhiman@gmail.com)
